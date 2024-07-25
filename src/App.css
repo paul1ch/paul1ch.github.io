@@ -1,5 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
   text-align: center;
+}
+
+
+
+.App-background {
+  background-color: #121416;
 }
 
 .App-logo {
@@ -14,7 +24,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +31,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-color: #282c34;
+  opacity: 0.5;
 }
 
 .App-link {
@@ -36,3 +47,89 @@
     transform: rotate(360deg);
   }
 }
+
+/* Sections : global properties */
+.sections {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.section {
+  position: relative;
+  padding: 40px 20px;
+  min-height: 80vh;
+  width: 40%;
+}
+
+.section::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 5em;
+  width: 4px;
+  height: 70%;
+  background-color: #bbebc4;
+  border-radius: 2px;
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 2em;
+  color: #bbebc4;
+}
+
+.subtitle {
+  font-size: 1.7em;
+  font-weight: 400;
+  color: #bbebc4;
+}
+
+.description {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.buttons {
+  margin-top: 100px;
+}
+
+.button {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px 20px;
+  color: #282c34;
+  background-color: #bbebc4;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #ebd5bb;
+}
+
+#home {
+  padding-top: 200px;
+  
+  .home-name {
+    font-size: 5.5em;
+    margin-top: 0px;
+    color: #ebd5bb;
+  }
+}
+
+#about {
+}
+
+#projects {
+}
+
+#contact {
+}
+

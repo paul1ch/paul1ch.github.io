@@ -1,0 +1,32 @@
+{
+    "header": {
+      "home": "Home",
+      "about": "About me",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "footer": {
+        "credits": "2024 - Designed & built with passion by Paulin Chardigny - All rights reserved"
+    },
+    "home": {
+        "hello": "Welcome ! my name is",
+        "name": "Paulin Chardigny",
+        "description1": "This portfolio showcases my projects and skills, aiming to provide a comprehensive view of my professional journey and aspirations. Feel free to explore and get in touch!",
+        "contactButton": "Contact me",
+        "downloadCV": "Download my resume"
+    },
+    "about": {
+      "title": "About me",
+      "description1": "I am an engineering student at Polytech Nancy and currently in a double degree program in ETS Montreal, I aim to deepen my training in automation and specialize to work in the industry. Dynamic, curious, and rigorous, I can work in a team as well as lead projects to success. I enjoy bringing my ideas to life, seeing projects through to the end, and stepping out of my comfort zone.",
+      "subtitle1": "> My scolarship",
+      "description2": "Informations about me."
+    },
+    "projects": {
+      "title": "Projects",
+      "description": "My projects."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "How to contact me."
+    }
+  }

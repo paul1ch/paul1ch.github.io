@@ -1,0 +1,32 @@
+{
+    "header": {
+      "home": "Accueil",
+      "about": "À propos",
+      "projects": "Projets",
+      "contact": "Contact"
+    },
+    "footer": {
+        "credits": "2024 - Réalisé par Paulin Chardigny - Tous droits réservés"
+    },
+    "home": {
+      "hello": "Bienvenue, je m'appelle",
+      "name": "Paulin Chardigny",
+      "description1": "Je suis étudiant ingénieur à Polytech Nancy et actuellement en double diplôme à l'ETS Montréal, je souhaite approfondir ma formation en automatisme et me spécialiser pour travailler dans l’industrie. Dynamique, curieux et rigoureux, je sais travailler en équipe mais aussi diriger des projets pour les faire réussir. J’aime concrétiser mes idées, aller au bout des choses et sortir de ma zone de confort.",
+      "description2": "Ce portfolio présente mes projets et compétences, dans le but de fournir une vue d'ensemble de mon parcours professionnel et de mes aspirations. N'hésitez pas à l'explorer et à me contacter !",
+      "contactButton": "Me contacter",
+      "downloadCV": "Vous préférez un CV classique ?"
+    },
+    "about": {
+      "title": "À propos",
+      "description": "Informations à propos de moi."
+    },
+    "projects": {
+      "title": "Projets",
+      "description": "Mes projets."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Comment me contacter."
+    }
+  }
+  
