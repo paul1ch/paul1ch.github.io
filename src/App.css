@@ -99,8 +99,8 @@ html {
 
 .button {
   display: inline-block;
-  margin: 0 10px;
   padding: 10px 20px;
+  margin: 10px;
   color: #282c34;
   background-color: #bbebc4;
   border: none;
@@ -128,6 +128,51 @@ html {
 }
 
 #projects {
+  .projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: left;
+  }
+
+  .project-card {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(256, 256, 256, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin: 20px;
+  }
+
+  .project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(256, 256, 256, 0.2);
+    background: #333333;
+  }
+
+  .project-img {
+    width: 100%;
+    max-height: 100px;
+    object-fit: cover;
+  }
+
+  .project-details {
+    padding: 20px;
+  }
+
+  .project-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+
+  .project-date,
+  .project-skills,
+  .project-description {
+    margin-bottom: 20px;
+  }
+
+  .project-skills {
+    color: #bbebc4;
+  }
 }
 
 #contact {

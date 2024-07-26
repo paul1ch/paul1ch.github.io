@@ -23,7 +23,25 @@
     },
     "projects": {
       "title": "Projects",
-      "description": "My projects."
+      "project1": {
+        "title": "\uD83D\uDCE6 Box'in",
+        "date": "January 2023",
+        "skills": "Développement web, front-end, JavaScript, CSS, React",
+        "description": "Facilitez votre expérience de réception de colis avec Box'in – une plateforme clé en main qui centralise toutes les informations de suivi, quel que soit le transporteur. Que vous soyez un particulier ou une entreprise, dites adieu aux tracas liés aux colis perdus dans l'oubli !<br><br>Avec mes collègues, nous avons mis en place cette solution web en React, exploitant une base de données MongoDB et intégrant les API de la Poste (Chronopost, Colissimo) et de DHL pour une expérience complète."
+      },
+      "project2": {
+        "title": "Project 2",
+        "date": "March 2023",
+        "skills": "Angular, Express, MySQL",
+        "description": "Description of project 2 goes here."
+      },
+      "project3": {
+        "title": "Project 3",
+        "date": "June 2023",
+        "skills": "Vue.js, Django, PostgreSQL",
+        "description": "Description of project 3 goes here."
+      },
+      "learnMore": "See More"
     },
     "contact": {
       "title": "Contact",
