@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px" viewBox="0 0 512 512" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="512px" height="512px" viewBox="0 0 512 512" version="1.1">
 <defs>
 <clipPath id="clip1">
   <path d="M 23.550781 0 L 488.449219 0 C 501.457031 0 512 10.542969 512 23.550781 L 512 488.449219 C 512 501.457031 501.457031 512 488.449219 512 L 23.550781 512 C 10.542969 512 0 501.457031 0 488.449219 L 0 23.550781 C 0 10.542969 10.542969 0 23.550781 0 Z M 23.550781 0 "/>
