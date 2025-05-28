@@ -1,32 +1,87 @@
 {
-    "header": {
-      "home": "Accueil",
-      "about": "À propos",
-      "projects": "Projets",
-      "contact": "Contact"
-    },
-    "footer": {
-        "credits": "2024 - Réalisé par Paulin Chardigny - Tous droits réservés"
-    },
-    "home": {
-      "hello": "Bienvenue, je m'appelle",
-      "name": "Paulin Chardigny",
-      "description1": "Ce portfolio présente mes projets et compétences, dans le but de fournir une vue d'ensemble de mon parcours professionnel et de mes aspirations. N'hésitez pas à l'explorer et à me contacter !",
-      "contactButton": "Me contacter",
-      "downloadCV": "Télécharger mon CV"
-    },
-  "about": {
-    "title": "À propos",
-    "description1": "Je suis étudiant ingénieur à Polytech Nancy et actuellement en double diplôme à l'ETS Montréal, je souhaite approfondir ma formation en automatisme et me spécialiser pour travailler dans l’industrie. Dynamique, curieux et rigoureux, je sais travailler en équipe mais aussi diriger des projets pour les faire réussir. J’aime concrétiser mes idées, aller au bout des choses et sortir de ma zone de confort.",
-    "subtitle": "Formation"
+  "header": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact"
   },
-    "projects": {
-      "title": "Projets",
-      "description": "Mes projets."
+  "footer": {
+    "credits": "2024 - Conçu et développé par Paulin Chardigny - Tous droits réservés"
+  },
+  "home": {
+    "hello": "Bienvenue ! je m'appelle",
+    "name": "Paulin Chardigny",
+    "description1": "Ce portfolio présente mes projets et compétences, et vise à offrir une vision complète de mon parcours professionnel et de mes aspirations. N'hésitez pas à explorer et à me contacter !",
+    "contactButton": "Me contacter",
+    "downloadCV": "Télécharger mon CV"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "description1": "Je suis étudiant en ingénierie à Polytech Nancy et actuellement en double diplôme à l'ÉTS de Montréal. Mon objectif est d'approfondir ma formation en automatisation et de me spécialiser pour travailler dans l'industrie. Dynamique, curieux et rigoureux, je peux travailler en équipe comme mener des projets à bien. J'aime concrétiser mes idées, voir les projets aboutir et sortir de ma zone de confort.",
+    "subtitle1": "▷ Études",
+    "item-date1": "SEPTEMBRE 2024 - AUJOURD'HUI (1 AN)",
+    "item-title1": "Master | École de Technologie Supérieure Montréal (Canada)",
+    "item-desc1": "Double diplôme : Génie de la fabrication automatisée (spécialisation en protection de l’environnement, automatisation, analyse de données, gestion de projet)",
+    "item-date2": "SEPTEMBRE 2020 - AUJOURD'HUI (5 ANS)",
+    "item-title2": "Diplôme d’ingénieur | Polytech Nancy (France)",
+    "item-desc2": "Spécialité : Études d’ingénierie (spécialisation « IA2R SIA » : informatique, automatisme, robotique, réseaux et systèmes autonomes et intelligents)",
+    "item-date3": "SEPTEMBRE 2017 - AOÛT 2020 (3 ANS)",
+    "item-title3": "Baccalauréat | Lycée Camille Sée Colmar (France)",
+    "item-desc3": "Spécialité Sciences de l'ingénieur, obtenu avec mention",
+    "subtitle2": "▷ Expériences professionnelles",
+    "job-date7": "JANVIER 2025 - AVRIL 2025 (4 MOIS)",
+    "job-title7": "Barista et vendeur en boulangerie | L'amour du Pain",
+    "job-place7": "Montréal (Québec, Canada)",
+    "job-detail7": "- Accueil et conseil des clients en proposant une variété de produits (pains, viennoiseries, gâteaux, macarons, cafés, thés, matcha)<br><br>- Respect des normes et réglementations MAPAQ pour les commerces alimentaires<br><br>- Contribution à l’entretien général de la boulangerie<br><br>- Participation proactive à l’organisation quotidienne pour optimiser le service et assurer la satisfaction client",
+    "job-date6": "MAI 2024 – AOÛT 2024 (4 MOIS)",
+    "job-title6": "Stage assistant ingénieur | Framatome",
+    "job-place6": "Lyon (France)",
+    "job-detail6": "Développement d’un banc de test pour pallier l’obsolescence d’un capteur de position.<br><br>- Électricité : développement des circuits nécessaires au fonctionnement du banc<br><br>- Programmation : création d’un logiciel de pilotage et de traitement<br><br>- Modélisation 3D : conception de supports adaptés<br><br>- Rédaction technique : documentation pour garantir la pérennité du projet<br><br>- R&D : début d’étude sur l’utilisation d’automates industriels programmables",
+    "job-date5": "SEPTEMBRE 2023 - DÉCEMBRE 2023 (4 MOIS)",
+    "job-title5": "Enseignant-tuteur | Polytech Nancy",
+    "job-place5": "Nancy (France)",
+    "job-detail5": "- Création et animation de cours hebdomadaires pour aider les élèves à progresser en électricité<br><br>- Développement de compétences pédagogiques et de vulgarisation scientifique",
+    "job-date4": "JUILLET 2023 – AOÛT 2023 (2 MOIS)",
+    "job-title4": "Opérateur technique en production viticole | Wolfberger",
+    "job-place4": "Colmar (France)",
+    "job-detail4": "- Participation à la chaîne de production (conditionnement, embouteillage, étiquetage de commandes spéciales)<br><br>- Maîtrise des processus de production en respectant qualité, hygiène et sécurité<br><br>- Maintien de l’ordre et de l’efficacité sur le poste, avec précision et autonomie",
+    "job-date3": "AOÛT 2022 (1 MOIS)",
+    "job-title3": "Opérateur de sondes géotechniques | Hydrogéotechnique",
+    "job-place3": "Nancy (France)",
+    "job-detail3": "- Réalisation de sondages géotechniques (forages, carottages, pressiomètres) avec des outils spécifiques<br><br>- Grande adaptabilité et contact client, sur chantiers résidentiels ou commerciaux<br><br>- Travail physique en conditions variables nécessitant endurance et précision",
+    "job-date2": "JUILLET 2021 (1 MOIS)",
+    "job-title2": "Technicien support industriel | DS Smith",
+    "job-place2": "Kuenheim (France)",
+    "job-detail2": "- Optimisation logistique : réorganisation du système de stockage<br><br>- Immersion industrielle : découverte des processus de production<br><br>- Compétences humaines : travail en équipe, gestion du stress, respect des consignes de sécurité",
+    "job-date1": "JUIN 2020 - JUILLET 2020 (2 MOIS)",
+    "job-title1": "Support technique | Labinfra",
+    "job-place1": "Fontaines (France)",
+    "job-detail1": "- Gestion et analyse de données : mise en forme, organisation et interprétation des résultats d’essais<br><br>- Utilisation avancée d’Excel : formules, structuration, reporting<br><br>- Travail à distance : autonomie et rigueur dans l’analyse et la présentation des données"
+  },
+  "projects": {
+    "title": "Projets",
+    "project1": {
+      "title": "📦 Box'in",
+      "date": "Janvier 2023",
+      "skills": "Développement web, front-end, JavaScript, CSS, React",
+      "description": "Facilitez votre expérience de réception de colis avec Box'in – une plateforme clé en main qui centralise toutes les informations de suivi, quel que soit le transporteur. Que vous soyez un particulier ou une entreprise, dites adieu aux tracas liés aux colis perdus dans l'oubli !<br><br>Avec mes collègues, nous avons mis en place cette solution web en React, exploitant une base de données MongoDB et intégrant les API de la Poste (Chronopost, Colissimo) et de DHL pour une expérience complète."
     },
-    "contact": {
-      "title": "Contact",
-      "description": "Comment me contacter."
-    }
+    "project2": {
+      "title": "Projet 2",
+      "date": "Mars 2023",
+      "skills": "Angular, Express, MySQL",
+      "description": "La description du projet 2 va ici."
+    },
+    "project3": {
+      "title": "Projet 3",
+      "date": "Juin 2023",
+      "skills": "Vue.js, Django, PostgreSQL",
+      "description": "La description du projet 3 va ici."
+    },
+    "learnMore": "Voir plus"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Comment me contacter."
   }
-  
+}
