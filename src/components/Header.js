@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import '../styles/Header.css';
 import Flag from 'react-world-flags';
-import logo from "../assets/logo.jpg"
+import logo from "../assets/logo.svg"
 
 const Header = () => {
   const { t, i18n } = useTranslation();

@@ -5,15 +5,15 @@ import '../styles/Sidebar.css';
 const Sidebar = () => {
   return (
     <div className="sidebar">
-      <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="sidebar-icon">
+      <a href="https://www.linkedin.com/in/paulin-chardigny-92b55a227" target="_blank" rel="noopener noreferrer" className="sidebar-icon">
         <FaLinkedin />
       </a>
-      <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer" className="sidebar-icon">
+      <a href="https://github.com/paul1ch" target="_blank" rel="noopener noreferrer" className="sidebar-icon">
         <FaGithub />
       </a>
-      <div className="sidebar-icon">
+      <a href="#contact" className="sidebar-icon">
         <FaPlus />
-      </div>
+      </a>
     </div>
   );
 };
